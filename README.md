@@ -15,5 +15,5 @@
 ### 🛠️ Tech Stack
 
 * **Frontend:** Angular / HTML / CSS
-* **Backend:** (Optional: Node.js / PHP / Firebase / JSON-server, depending on your implementation)
-* **Database:** (MySQL / MongoDB / or local storage)
+* **Backend:** (SpringBoot Application)
+* **Database:** (MySQL)
